@@ -1,0 +1,8 @@
+/.idea/
+/web/
+/windows/
+/ios/
+/build/
+/android/
+/flutter_example02.iml
+.*
